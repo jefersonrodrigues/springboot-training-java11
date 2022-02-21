@@ -7,3 +7,4 @@ import com.rodrigues.jeferson.basic.entities.User;
 public interface UserRepository extends JpaRepository<User, Long>{
 
 }
+ 
